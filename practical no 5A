@@ -1,0 +1,50 @@
+
+<html>
+<head>
+<style>
+  h1 {background-color:blue;
+      color:white;}
+ h2 {background-color:yellow;
+      color:black;}
+  p {color:black;}
+</style>
+</head>
+<body style ="background-color:skyblue";>
+
+<h1><center>WALCHAND COLLEGE OF ENGINEERING ,SANGALI<br>
+<font size ="-1">(An Autonomous Institute)</font></center>
+</h1>
+
+<h2><center>ELECTRONICS ENGINEERING DEPARTMENT<center></h2>
+<center><img src="ElnDeptPhoto.jpg" height"500" width="500"></center>
+<!--Displaying Image//-->
+<section><h3>Department information</h3>
+<p>
+The Department of Electronics Engineering was established in 1986 to offer both graduate and post graduate programs at Walchand College of Engineering, Sangli. Its Curriculum is developed in such a way that it will nurture critical thinking, creativity and professional skills in students.
+
+The Electronics Engineering Department runs programs of Diploma (Industrial Electronics), B. Tech. (Electronics) and M. Tech (Electronics). Department is recognized as a Ph. D. research centre for the following schemes: AICTE's National Doctoral Fellowship Scheme, Govt. of India's Quality Improvement Program and Shivaji University, Kolhapur. Department is accredited by the National Board of Accreditation, New Delhi. The Electronics Engineering Department has a well qualified faculty, having expertise in various Electronics Engineering streams like Communication and Signal Processing, Embedded Systems and VLSI, Instrumentation and Control Systems.
+
+The Electronics Engineering Department has well equipped laboratories with latest instruments and software tools for students, faculty and research scholars. Various laboratories including Electronics Design and Automation Lab, Embedded System, Microcontroller Lab, Digital Design Lab, Industrial Electronics lab, Instrumentation and Control Lab, Communication Lab, PG Lab, PG Research Lab  and John Deere Research Lab etc.
+
+The faculty members at the Department have published several book and book chapters, research work in peer reviewed high impact National and International indexed search journals like Springer Publications, Wiley Publications etc. Faculty, as an add on , has received grants like AICTE Seminar Grant, FDP Grant, MODROB Grants, Grants under Research Promotion Scheme, BARC Research Grant which has helped to enhance the research activities, develop project labs.
+
+Our students are placed in different reputed companies like John Deere, Seagate Technologies, Cadence, ThoughtWorks Philips, EATON India, L & T, Hella Automotive and many more. Our students are placed in software companies like Infosys, TCS, Siemens, Cognizant, Accenture and many more. Many of our students are selected for higher education in many prestigious National/International Institute/universities like NIT, IIT, IISc, and IIM.
+
+Also our students are participating in the GRE and TOFEL Examination. We feel proud that our alumni occupy top executive positions at various enterprises such as Seagate, Intel, Tata Elxsi, Bell Telecom, L&T, 3D PLM, HAL Siemens, Mercedes, Infosys, Wipro and prestigious manufacturing and service organizations. We always strive for all round excellence in students, encouraging them in curricular as well as extra-curricular activities.
+
+</p>
+</section>
+<address>
+
+<a href="http://www.walchandsangli.ac.in/ContactUS.asp">CONTACT US</a><br>
+The Director <br>
+Walchand College of Engineering ,<br>
+A/P: Vishrambag,<br>
+Sangli - 416 415<br>
+Maharashtra, India<br>
+Tel: +91-233-2300383<br>
+Fax:+91-233-2300831<br>
+
+</address>
+</body>
+</html>
